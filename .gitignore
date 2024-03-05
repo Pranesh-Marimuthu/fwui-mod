@@ -6,10 +6,6 @@
 **/logs
 **/*.log
 
-## build
-**/dist
-**/build
-
 ## temp
 **/tmp
 **/temp
