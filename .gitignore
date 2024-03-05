@@ -2,11 +2,6 @@
 .idea
 .vscode
 
-# dependencies
-**/node_modules
-**/package-lock.json
-**/yarn.lock
-
 ## logs
 **/logs
 **/*.log
